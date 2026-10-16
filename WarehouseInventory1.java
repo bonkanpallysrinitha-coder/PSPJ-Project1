@@ -1,4 +1,5 @@
-import java.util.*;
+import java.util.Scanner;
+import java.util.ArrayList;
 
 class Product {
     int id, qty, reorderLevel, reorderQty;
